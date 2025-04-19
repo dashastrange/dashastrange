@@ -81,7 +81,7 @@ and performance testing using
 
 ### Watch the snake eating my contributions 🐍
 
-![snake gif](https://github.com/DASHASTRANGE/DASHASTRANGE/blob/output/github-snake.svg)
+![snake gif](https://github.com/dashastrange/output/github-snake.svg)
 
 ___
 
