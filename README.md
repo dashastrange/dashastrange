@@ -79,6 +79,12 @@ and performance testing using
 
 ---
 
+### Watch the snake eating my contributions 🐍
+
+![snake gif](https://github.com/DASHASTRANGE/DASHASTRANGE/blob/output/github-snake.svg)
+
+___
+
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daria-vasylieva/)  
