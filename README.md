@@ -1,7 +1,6 @@
 # 👩‍💻 Daria Vasylieva
 
 **Senior QA Engineer** | Quality Obsessed | Detail-Oriented | Lifelong Learner  
-📍 Gdańsk, Poland · ✉️ dashastrange@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/daria-vasylieva/)
 
 ---
 
@@ -57,7 +56,6 @@ With hands-on experience across various industries — from **e-commerce and B2B
 - Deepen automation skills (Selenium/Cypress)
 - Explore QAOps and CI/CD integration
 - Contribute to open-source QA tools
-- Start a tech blog or YouTube channel on QA techniques
 
 ---
 
@@ -65,7 +63,7 @@ With hands-on experience across various industries — from **e-commerce and B2B
 
 - I enjoy mentoring junior QA engineers and sharing best practices  
 - I’m fascinated by UI/UX — good design deserves good testing  
-- I once found a critical bug 2 hours before release day 😅
+- I once found a critical bug 2 hours before release 😅
 
 ---
 
