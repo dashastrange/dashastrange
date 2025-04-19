@@ -75,7 +75,7 @@ and performance testing using
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Daria's GitHub Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dashastrange&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Daria's GitHub Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashastrange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/> </p>
 
 ---
 
