@@ -81,7 +81,8 @@ and performance testing using
 
 ### Watch the snake eating my contributions 🐍
 
-![snake svg]([https://raw.githubusercontent.com/dashastrange/output/github-snake.svg](https://raw.githubusercontent.com/dashastrange/dashastrange/output/github-snake.svg))
+![snake svg](https://raw.githubusercontent.com/dashastrange/dashastrange/output/github-snake.svg)
+
 
 ___
 
