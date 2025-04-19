@@ -1,7 +1,7 @@
 # 👩‍💻 Daria Vasylieva
 
 **Senior QA Engineer** | Quality Obsessed | Detail-Oriented | Lifelong Learner  
-📍 Gdańsk, Poland · ✉ dashastrange@gmail.com · [LinkedIn](https://www.linkedin.com/in/daria-vasylieva/)
+📍 Gdańsk, Poland · ✉️ dashastrange@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/daria-vasylieva/)
 
 ---
 
