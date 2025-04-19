@@ -51,7 +51,7 @@ With hands-on experience across various industries — from **e-commerce and B2B
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 Goals
 
 - Deepen automation skills (Selenium/Cypress)
 - Explore QAOps and CI/CD integration
