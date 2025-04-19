@@ -14,40 +14,46 @@ With hands-on experience across various industries — from **e-commerce and B2B
 
 ### 🧠 Core Skills & Tools
 
-- **Manual Testing**, **Exploratory Testing**, **Root Cause Analysis**, **Test Plans & Case Design**
-- **Defect Tracking:** JIRA  
-- **Test Management:** TestRail, Zephyr  
-- **Collaboration Tools:** Confluence, Slack, Microsoft Teams  
-- **Version Control:** Git  
-- **Testing Knowledge:** STLC, SDLC, Requirement Analysis, Cross-Browser Testing  
-- **Technical Skills:** SQL (DB testing), API Testing (Postman), Performance Testing (JMeter), HTML/CSS/JS (basic), Selenium (C#)
+<p align="left"> <!-- Manual & Exploratory Testing --> <img src="https://img.shields.io/badge/Manual%20Testing-blueviolet?style=flat&logo=testing-library" alt="Manual Testing"/> <img src="https://img.shields.io/badge/Exploratory%20Testing-orange?style=flat&logo=search"/> <!-- Defect & Test Management --> <img src="https://img.shields.io/badge/JIRA-Tracking-blue?style=flat&logo=jira" alt="JIRA"/> <img src="https://img.shields.io/badge/TestRail-Test%20Management-brightgreen?style=flat" alt="TestRail"/> <img src="https://img.shields.io/badge/Zephyr-Test%20Management-yellowgreen?style=flat" alt="Zephyr"/> <!-- Collaboration Tools --> <img src="https://img.shields.io/badge/Confluence-Documentation-blue?style=flat&logo=confluence" alt="Confluence"/> <img src="https://img.shields.io/badge/Slack-Team%20Chat-4A154B?style=flat&logo=slack" alt="Slack"/> <img src="https://img.shields.io/badge/Microsoft%20Teams-Meetings-6264A7?style=flat&logo=microsoft-teams" alt="Microsoft Teams"/> <!-- Version Control --> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git" alt="Git"/> <!-- API & Performance Testing --> <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman" alt="Postman"/> <img src="https://img.shields.io/badge/JMeter-Performance%20Testing-D22128?style=flat&logo=apachejmeter" alt="JMeter"/> <!-- Databases --> <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat&logo=mysql" alt="SQL"/> <!-- Web Basics --> <img src="https://img.shields.io/badge/HTML-Basic-E34F26?style=flat&logo=html5" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-Basic-1572B6?style=flat&logo=css3" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> <!-- Automation --> <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat&logo=selenium" alt="Selenium"/> <img src="https://img.shields.io/badge/C%23-Automation-239120?style=flat&logo=c-sharp" alt="C#"/> </p>
 
 ---
 
-### 💼 Experience
+💼 Experience Highlights
+<p align="left">
+🔧 Performed manual and exploratory testing on both desktop and web applications
+🧪 Created and maintained detailed test cases and bug reports using
+<img src="https://img.shields.io/badge/JIRA-Tracking-blue?style=flat&logo=jira" alt="JIRA" height="20"/> &
+<img src="https://img.shields.io/badge/TestRail-Management-brightgreen?style=flat" alt="TestRail" height="20"/>
 
-#### 🖼 Infopulse (05/2020 – 10/2024)  
-**Quality Assurance Engineer**  
-- Led testing efforts for advanced **Photoshop plugins**
-- Boosted desktop application stability & performance
-- Improved QA workflows through automation basics & regular process evaluation
-- Created comprehensive defect databases and reduced defect rate through meticulous test case execution
+🌐 Worked on cross-browser testing and UI verification using
+<img src="https://img.shields.io/badge/Chrome-Browser-4285F4?style=flat&logo=google-chrome" height="20"/>
+<img src="https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat&logo=firefox-browser" height="20"/>
 
-#### 💊 TEAM International (09/2019 – 05/2020)  
-**Quality Assurance Engineer**  
-- Focused on **Healthcare web applications**
-- Conducted **API testing** (Postman) and **performance testing** (JMeter)
-- Worked closely with product owners to optimize manual test coverage
+💬 Collaborated closely with developers, product owners, and designers via
+<img src="https://img.shields.io/badge/Slack-Team%20Chat-4A154B?style=flat&logo=slack" height="20"/>
+<img src="https://img.shields.io/badge/Confluence-Docs-blue?style=flat&logo=confluence" height="20"/>
+<img src="https://img.shields.io/badge/Microsoft%20Teams-Meetings-6264A7?style=flat&logo=microsoft-teams" height="20"/>
 
-#### 🧪 AltexSoft (08/2018 – 09/2019)  
-**AQA Engineer**  
-- Built automation scripts using **C# + WinAppDriver**
-- Collaborated on Agile teams testing **e-commerce** and **B2B** products, PoS terminals, and ATMs
+📊 Conducted API testing with
+<img src="https://img.shields.io/badge/Postman-API-orange?style=flat&logo=postman" height="20"/>
+and performance testing using
+<img src="https://img.shields.io/badge/JMeter-Load%20Testing-D22128?style=flat&logo=apachejmeter" height="20"/>
 
-#### 📡 TEAM International (12/2016 – 08/2018)  
-**QA Engineer**  
-- Specialized in **automated DB testing** (SQL)
-- Developed test documentation and collaborated on **Telecom** and **B2B** solutions
+💻 Developed automated UI tests using
+<img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat&logo=selenium" height="20"/> and
+<img src="https://img.shields.io/badge/C%23-Tests-239120?style=flat&logo=c-sharp" height="20"/>
+
+🗃️ Performed database testing and validation using
+<img src="https://img.shields.io/badge/SQL-Queries-4479A1?style=flat&logo=mysql" height="20"/>
+
+🧠 Engaged in root cause analysis, helped optimize test coverage, and supported agile workflows
+<img src="https://img.shields.io/badge/Scrum-Agile-6DB33F?style=flat&logo=scrumalliance" height="20"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Quality%20Assurance-blue?style=flat&logo=githubactions" height="20"/>
+
+🧩 Tested software across multiple domains: E-commerce, Healthcare, B2B, Telecom, and Creative Tools
+🏥 🛒 🖼️ 📞
+
+</p>
 
 ---
 
@@ -69,7 +75,7 @@ With hands-on experience across various industries — from **e-commerce and B2B
 
 ### 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dashastrange&show_icons=true&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Daria's GitHub Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/> </p>
 
 ---
 
