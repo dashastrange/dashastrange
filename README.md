@@ -18,7 +18,7 @@ With hands-on experience across various industries — from **e-commerce and B2B
 
 ---
 
-💼 Experience Highlights
+### 💼 Experience Highlights
 <p align="left">
 🔧 Performed manual and exploratory testing on both desktop and web applications
 🧪 Created and maintained detailed test cases and bug reports using
