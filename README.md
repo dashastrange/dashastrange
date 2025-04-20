@@ -75,7 +75,11 @@ and performance testing using
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dashastrange&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Daria's GitHub Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashastrange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dashastrange&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Daria's GitHub Stats" height="160"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashastrange&layout=compact&theme=tokyonight&hide_border=true" height="160"/> &nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dashastrange&theme=tokyonight&hide_border=true" alt="dashastrange" height="160"/>
+</p>
 
 ---
 
@@ -86,7 +90,15 @@ and performance testing using
 
 ___
 
-### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daria-vasylieva/)  
-✉ dashastrange@gmail.com
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dashastrange&label=Profile%20views&color=0e75b6&style=flat" alt="dashastrange" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dashastrange" alt="dashastrange" /></a> </p>
+
+### 🔗 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/daria-vasylieva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daria-vasylieva" height="30" width="40" /></a>
+<a href="https://medium.com/@dashastrange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dashastrange" height="30" width="40" /></a>
+</p>
+
