@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: dashastrange
           outputs: |
-            dist/github-snake-night.svg?palette=custom&color_snake=#FF6EC7&color_dots=#1B1F23,#2A2D36&color_tiles=#00FF00,#1A1A1A
+            dist/github-snake-night.svg
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
