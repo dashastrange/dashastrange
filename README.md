@@ -85,18 +85,14 @@ and performance testing using
 
 ### Watch the snake eating my contributions 🐍
 
-![Snake animation](https://raw.githubusercontent.com/dashastrange/dashastrange/output/github-snake.svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashastrange/dashastrange/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashastrange/dashastrange/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dashastrange/dashastrange/output/github-snake.svg" />
 </picture>
 
 
 ___
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dashastrange&label=Profile%20views&color=0e75b6&style=flat" alt="dashastrange" /> </p>
 
