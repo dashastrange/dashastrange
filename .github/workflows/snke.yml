@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Generate snake animation
+    name: Generate pastel rainbow snake
     runs-on: ubuntu-latest
 
     steps:
@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: dashastrange
           outputs: |
-            dist/github-snake-pastel.svg?palette=custom&color_snake=#F4A7B9
+            dist/github-snake-night.svg?palette=custom&color_snake=#F4A7B9,#F8CED8,#FFDFDF,#E6C6FF,#C3DFFF,#D4FFEA&color_dots=#1E1E1E,#2A2A2A,#333,#3D3D3D
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
