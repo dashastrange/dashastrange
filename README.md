@@ -59,9 +59,8 @@ and performance testing using
 
 ### 🎯 Goals
 
-- Deepen automation skills (Selenium/Cypress)
-- Explore QAOps and CI/CD integration
-- Contribute to open-source QA tools
+- Get ML/Data Analysis qualification
+- Explore QAOps/MLOps and CI/CD integration
 
 ---
 
