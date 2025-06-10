@@ -9,6 +9,7 @@ Manual QA Engineer (10 years) → Machine Learning & Data Analysis Enthusiast
 </div>
 
 🎯 Current Focus: Machine Learning & Data Analysis
+
 Leveraging 10 years of quality assurance expertise to build a new career in data science and machine learning. My analytical mindset and attention to detail from QA perfectly complement the precision required in ML and data analysis.
 
 💼 My Unique Value Proposition
