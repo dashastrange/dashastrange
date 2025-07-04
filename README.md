@@ -34,6 +34,11 @@ QA Mindset + Data Science = Robust, Reliable ML Solutions
 - Scikit Learn
 - TensorFlow
 - Jupyter
+- Chroma DB
+- Langchain
+
+  Hands on:
+- Ollama
   
 🔧 QA Experience (10 Years)
 - Selenium
