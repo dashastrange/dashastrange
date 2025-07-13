@@ -8,7 +8,7 @@ Manual QA Engineer (10 years) → Machine Learning & Data Analysis Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Quality+Assurance+Veteran;Machine+Learning+Student;Data+Analysis+Explorer;Python+Enthusiast;Always+Learning" alt="Typing SVG">
 </div>
 
-🎯 Current Focus: Machine Learning & Data Analysis
+🎯 Current Focus: ML & LLM Engineering
 
 Leveraging 10 years of quality assurance expertise to build a new career in data science and machine learning. My analytical mindset and attention to detail from QA perfectly complement the precision required in ML and data analysis.
 
