@@ -36,9 +36,12 @@ QA Mindset + Data Science = Robust, Reliable ML Solutions
 - Jupyter
 - Chroma DB
 - Langchain
+- Langraph
+- Pydentic
 
   Hands on:
 - Ollama
+- Open AI
   
 🔧 QA Experience (10 Years)
 - Selenium
