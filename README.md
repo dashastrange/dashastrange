@@ -37,7 +37,7 @@ QA Mindset + Data Science = Robust, Reliable ML Solutions
 - Chroma DB
 - Langchain
 - Langraph
-- Pydentic
+- Pydantic
 
   Hands on:
 - Ollama
@@ -68,7 +68,6 @@ After a decade in manual QA, I've developed an analytical mindset and attention 
   
 These skills are directly transferable to machine learning and data analysis, where data quality and model reliability are paramount.
 
-💬 Open to opportunities in Data Science, Machine Learning, and Data Analysis roles!
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer">
