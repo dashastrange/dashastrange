@@ -1,30 +1,22 @@
-Hello, I'm 👩‍💻 Daria Vasylieva 👋
+Hello, I'm 👩‍💻 Daria Vasylieva 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=From%20QA%20to%20ML&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Quality%20Assurance%20Experience%20into%20Data%20Intelligence&descAlignY=51&descAlign=center" alt="Header">
 
 🚀 Career Transition Journey 🚀
-Manual QA Engineer (10 years) → Machine Learning & Data Analysis Enthusiast
+Manual QA Engineer (10 years) → LLM and Agwntic Systems Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Quality+Assurance+Veteran;Machine+Learning+Student;Data+Analysis+Explorer;Python+Enthusiast;Always+Learning" alt="Typing SVG">
 </div>
 
-🎯 Current Focus: ML & LLM Engineering
+🎯 Current Focus: ML & LLM Engineering, Building Multi Agent Systems
 
-Leveraging 10 years of quality assurance expertise to build a new career in data science and machine learning. My analytical mindset and attention to detail from QA perfectly complement the precision required in ML and data analysis.
-
-💼 My Unique Value Proposition
-QA Mindset + Data Science = Robust, Reliable ML Solutions
-- Quality First: 10 years of ensuring software quality translates to meticulous data validation
-- Bug Hunter: Skilled at identifying anomalies and edge cases in datasets
-- Process Oriented: Strong methodology in testing approaches data preprocessing
-- Detail Focused: Critical thinking skills essential for feature engineering
-
-### 🔥 What I'm Learning Right Now
-- 🤖 Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
-- 📊 Data Analysis: Statistical Analysis, Data Visualization, EDA
-- 🐍 Python: pandas, numpy, scikit-learn, matplotlib, seaborn
-- 🧠 Deep Learning: Neural Networks, TensorFlow, Keras
-- 📈 Data Tools: Jupyter Notebooks, SQL, Excel Advanced Analytics
+### What I'm Learning Right Now
+- Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
+- Data Analysis: Statistical Analysis, Data Visualization, EDA
+- Python: pandas, numpy, scikit-learn, matplotlib, seaborn
+- Deep Learning: Neural Networks, TensorFlow, Keras
+- Data Tools: Jupyter Notebooks, SQL,
+- Agentic Systems: pydantic, langgraph 
 
 🛠️ Tech Stack
 🎓 Currently Learning
@@ -35,17 +27,15 @@ QA Mindset + Data Science = Robust, Reliable ML Solutions
 - TensorFlow
 - Jupyter
 - Chroma DB
+- Qdrant
 - Langchain
 - Langraph
 - Pydantic
-
-  Hands on:
-- Ollama
-- Open AI
   
 🔧 QA Experience (10 Years)
 - Selenium
 - SQL
+- Docker
 - and more ;)
 
 📈 GitHub Stats
@@ -55,17 +45,7 @@ QA Mindset + Data Science = Robust, Reliable ML Solutions
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashastrange&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
 
-### 🤖 Going to add more Machine Learning and Data Analysis Projects to my GitHub! Stay tuned!
-
-### 🌟 Why I'm Making This Transition
-After a decade in manual QA, I've developed an analytical mindset and attention to detail that perfectly aligns with data science. My experience in:
-
-- Data Validation: Ensuring data integrity and quality
-- Edge Case Identification: Finding outliers and anomalies
-- Process Documentation: Creating clear, reproducible workflows
-- Cross-functional Collaboration: Working with diverse technical teams
-  
-These skills are directly transferable to machine learning and data analysis, where data quality and model reliability are paramount.
+---
 
 </div>
 <div align="center">
