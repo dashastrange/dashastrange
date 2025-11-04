@@ -53,7 +53,6 @@ QA Mindset + Data Science = Robust, Reliable ML Solutions
 
 <img src="https://github-readme-stats.vercel.app/api?username=dashastrange&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashastrange&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dashastrange&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
 ### 🤖 Going to add more Machine Learning and Data Analysis Projects to my GitHub! Stay tuned!
