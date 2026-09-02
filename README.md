@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=AI%20Systems%20Validator&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Orchestrating%20%26%20Validating%20Multi-Agent%20LLM%20Systems%20%7C%2010%20Years%20of%20QA%20Precision&descSize=18&descAlignY=52&descAlign=center" alt="Header">
-
+  
 # Daria Vasylieva
 
 ### AI Systems Validator & Orchestrator
@@ -107,5 +105,3 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dashastrange&label=Profile%20views&color=0e75b6&style=flat" alt="dashastrange" /> </p>
-
-
